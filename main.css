@@ -2,6 +2,9 @@
   box-sizing: border-box;
 }
 
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300&display=swap");
+
+
 body {
   background: linear-gradient(to right, hsl(302, 100%, 50%), hsl(175, 100%, 50%));
   display: flex;
@@ -89,23 +92,10 @@ body {
 
 
 
-
-
-
-
-
-
-
-
-
-
 /* Background Styles Only */
 
-@import url('https://fonts.googleapis.com/css?family=Raleway');
 
-* {
-    font-family: Raleway;
-}
+
 
 .side-links {
   position: absolute;
